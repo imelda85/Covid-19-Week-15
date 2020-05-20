@@ -27,7 +27,7 @@ ui <- fluidPage(theme = shinytheme("journal"),
     tabPanel("Plots", icon = icon("chart-line"), page_plots, value = "page-plots"),
     tabPanel("About", icon = icon("info-circle"), page_about, value = "page-about"),
     navbarMenu("More", icon = icon("question-circle"),
-               tabPanel(tags$a("", href = "https://github.com/Bakti-Siregar/COVID-19_Dashboard/", target = "_blank",list(icon("github"), "Resources"))),
+               tabPanel(tags$a("", href = "https://github.com/imelda85/Covid-19-Week-15/", target = "_blank",list(icon("github"), "Resources"))),
                tabPanel(tags$a("", href = "https://www.linkedin.com/in/imelda-sianturi-331675192/", target = "_blank",list(icon("linkedin"), "My Profile"))),
                tabPanel(tags$a("", href = "https://master-data-scientist.shinyapps.io/COVID19-Dashboard-Prediction", target = "_blank",list(icon("connectdevelop"), "More Advanced Dashboard")))
     ),
