@@ -28,5 +28,5 @@ This App is for educational purposes only. Opinions or points of view expressed 
 # Motivation to Fight the COVID-19 Deases
 Please stay at home, distance yourself from others and be healthy. We must not only keep our hands clean , let us get ride of any thing that contaminate the body. The soul of spirit must be equally kept clean. Because we know that the key to overcome this crisis is patience, courage, self-discipline, adaptation and alertness.
 
-<img src="https://static.dezeen.com/uploads/2020/03/the-spinoff-toby-morris-siouxsie-wiles-design-graphics-illustration-coronavirus_dezeen_1704_col_4.gif" width=70%/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Covid-19-curves-graphic2-stopthespread-v3.gif" width=70%/>
 
