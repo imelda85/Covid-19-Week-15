@@ -30,7 +30,3 @@ Please stay at home, distance yourself from others and be healthy. We must not o
 
 <img src="https://static.dezeen.com/uploads/2020/03/the-spinoff-toby-morris-siouxsie-wiles-design-graphics-illustration-coronavirus_dezeen_1704_col_4.gif" width=70%/>
 
-
-
-
-
